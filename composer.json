@@ -1,0 +1,22 @@
+{
+    "name": "mechemsi/license",
+    "description": "License script and text",
+    "type": "symfony-bundle",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Mechemsi\\License\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Dominykas",
+            "email": "dominykas.vilipas@gmail.com"
+        }
+    ],
+    "require": {},
+    "bin": [
+        "bin/add-license",
+        "bin/add-line"
+    ]
+}
