@@ -17,6 +17,7 @@
     "require": {},
     "bin": [
         "bin/add-license",
-        "bin/add-line"
+        "bin/add-line",
+        "bin/license"
     ]
 }
